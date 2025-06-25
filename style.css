@@ -1,10 +1,20 @@
-body{
-    background-color: rgba(25, 236, 169, 0.185);
+body {
+    background-color: rgb(110, 5, 5);
     color: white;
-    font-family:"KANIT", sans-serif;
+    font-family: "KANIT", sans-serif;
+    MARGIN: Opx;
 }
-h1{
-    font-size: 80px;
+
+h1 {
+    font-size: 40px;
 }
-P{
+
+P {
     font-size: 20px;
+}
+
+header {
+    border: dashed 2px rgb(42, 122, 228); 
+    padding: 20px;
+font-size: 32px;
+color: rgb(42, 122, 228);
